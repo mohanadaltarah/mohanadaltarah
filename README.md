@@ -13,6 +13,9 @@ I'm Mohanad, a Software Engineer and a Content Creator from Syria with a passion
 
 
 ## Examples of Work
+<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/Discussion-Forum.png" width=200>
+<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/qustion-post-page.png" width=200>
+<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/AWS-second-project.jpg" width=200>
 
 
 
