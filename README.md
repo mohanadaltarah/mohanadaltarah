@@ -42,14 +42,6 @@ Here are a few projects I can publicly share. More details available upon reques
 
 ---
 
-## 📷 Project Snapshots
-
-<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/Discussion-Forum.png" width="200">
-<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/qustion-post-page.png" width="200">
-<img src="https://github.com/mohanadaltarah/mohanadaltarah/blob/main/AWS-second-project.jpg" width="200">
-
----
-
 ## 📫 Let’s Connect
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate.  
