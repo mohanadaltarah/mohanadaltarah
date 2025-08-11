@@ -23,7 +23,7 @@ This profile is a collection of my public work, learning projects, and achieveme
 ---
 
 ## 🚀 Current Work
-- Contributing to a **Nuxt.js & Laravel-based** web platform at [Elbedri LLC]().  
+- Contributing to a **Nuxt.js & Laravel-based** web platform at [Elbedri LLC](https://www.linkedin.com/company/elbedri/posts/?feedView=all).  
 - Enhancing admin dashboards, migrating legacy systems, and optimizing UI/UX for better performance and usability.  
 - Building reusable components and improving localization systems for multilingual support.
 
@@ -50,9 +50,15 @@ Here are a few projects I can publicly share. More details available upon reques
 
 ---
 
-## 🌐 Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>](https://github.com/mohanadaltarah)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/mohanad-altarah/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='30'>](https://www.instagram.com/mohanadaltarah/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'>](https://twitter.com/Mohanad_tara)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCQ4mj9-IRUQBoI44obwh9tA)  
+## 📫 Let’s Connect
+
+I’m always open to discussing new projects, ideas, or opportunities to collaborate.  
+You can find me here:  
+
+<p align="center">
+  <a href="https://github.com/mohanadaltarah"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohanad-altarah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mohanadaltarah/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/Mohanad_tara"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCQ4mj9-IRUQBoI44obwh9tA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p> 
