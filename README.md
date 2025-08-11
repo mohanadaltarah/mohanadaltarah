@@ -37,7 +37,7 @@ Here are a few projects I can publicly share. More details available upon reques
 | **Sahl Solutions Dashboard** | Developed a modern admin dashboard for managing users, job postings, and company data with improved UX and localization support. | Nuxt.js, Nuxt UI, Laravel |
 | **Sahl Solutions Website** | Built and optimized the public-facing website, integrating it with the same backend as the admin dashboard for unified data management. | Nuxt.js, Nuxt UI, Laravel |
 | **Sahl One Website & Dashboard** | Created a customer-focused website and an internal dashboard for managing services and client data efficiently. | Nuxt.js, Nuxt UI, Laravel |
-| **Ahl Quran Migration** | Migrated an existing Vue + Vuetify website to Nuxt UI 3, improving performance, maintainability, and design consistency. | Nuxt UI 3, Vue.js |
+| **Ahl Quran Migration** | Migrated an existing Vue + Nuxt UI 2 website to Nuxt UI 3, improving performance, maintainability, and design consistency. | Nuxt UI 3, Vue.js |
 
 
 ---
