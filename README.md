@@ -13,8 +13,11 @@ This space is where I share my journey of continuous growth: the projects I’ve
 
 ## 🚀 Skills and Tools
 Languages & Frameworks: 🐍 Python, Django, HTML, CSS, JavaScript
+
 Databases: MySQL, SQLite
+
 Other Skills: UI/UX Design, Responsive Web Development
+
 Currently Learning: Advanced Web Development, Nuxt.js, Laravel
 
 ## 🌟 What I’m Working On
