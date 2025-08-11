@@ -17,7 +17,7 @@ This profile is a collection of my public work, learning projects, and achieveme
 
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, Nuxt.js  
 - **Backend:** PHP, Laravel, Python, Django  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQL, Postgres
 - **Other Tools:** Git, REST APIs, Agile Development  
 
 ---
