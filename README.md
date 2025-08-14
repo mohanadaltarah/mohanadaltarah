@@ -1,56 +1,65 @@
 # Mohanad Altarah
 
 **Full-Stack Web Developer | Content Creator | Lifelong Learner**  
-Available for Remote Work | Based in Syria (GMT+3)  
+🌍 Available for Remote Work | 📍 Syria (GMT+3)  
 
-Hi, I’m Mohanad — a passionate **Software Engineer** and **Content Creator** from Syria, driven by the mission of building impactful and user-friendly applications.  
-My journey started with self-learning, but quickly evolved into delivering **real-world projects** that solve problems and improve user experiences.  
+---
 
-I’ve worked with **modern web technologies** to create everything from sleek dashboards to full website migrations, always aiming for clean code, optimized performance, and accessible design.  
-This profile is a collection of my public work, learning projects, and achievements.
+## 👋 About Me
+- 🚀 Passionate about building impactful, scalable, and user-friendly web applications.  
+- 💼 Experience in delivering real-world projects: dashboards, website migrations, and UI/UX optimization.  
+- 📚 Always learning and improving my craft with modern web technologies.  
 
-[![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanadaltarah&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🌱 Currently
+- Learning **Advanced Nuxt.js & Laravel** techniques.  
+- Exploring **Web Security** fundamentals (OWASP Top 10).  
+- Building projects that improve performance and accessibility.  
+
+---
+
+## 🤝 Looking to Collaborate On
+- Full-stack web development projects.  
+- UI/UX-focused dashboards and websites.  
+- Performance optimization and localization solutions.  
 
 ---
 
 ## 🛠 Skills & Technologies
-
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Nuxt.js  
-- **Backend:** PHP, Laravel, Python, Django  
-- **Databases:** MySQL, Postgres
-- **Other Tools:** Git, REST APIs, Agile Development  
-
----
-
-## 🚀 Current Work
-- Contributing to a **Nuxt.js & Laravel-based** web platform at [Elbedri LLC](https://www.linkedin.com/company/elbedri/posts/?feedView=all).  
-- Enhancing admin dashboards, migrating legacy systems, and optimizing UI/UX for better performance and usability.  
-- Building reusable components and improving localization systems for multilingual support.
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?logo=nuxt.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-## 📌 Selected Public Projects
-Here are a few projects I can publicly share. More details available upon request.
-
+## 📌 Selected Projects
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| **Sahl Solutions Dashboard** | Developed a modern admin dashboard for managing users, job postings, and company data with improved UX and localization support. | Nuxt.js, Nuxt UI, Laravel |
-| **Sahl Solutions Website** | Built and optimized the public-facing website, integrating it with the same backend as the admin dashboard for unified data management. | Nuxt.js, Nuxt UI, Laravel |
-| **Sahl One Website & Dashboard** | Created a customer-focused website and an internal dashboard for managing services and client data efficiently. | Nuxt.js, Nuxt UI, Laravel |
-| **Ahl Quran Migration** | Migrated an existing Vue + Nuxt UI 2 website to Nuxt UI 3, improving performance, maintainability, and design consistency. | Nuxt UI 3, Vue.js |
-
+| **Sahl Solutions Dashboard** | Modern admin dashboard for managing users, job postings, and company data with improved UX and localization. | Nuxt.js, Nuxt UI, Laravel |
+| **Sahl Solutions Website** | Public-facing website integrated with the dashboard backend for unified data management. | Nuxt.js, Nuxt UI, Laravel |
+| **Sahl One Website & Dashboard** | Customer-focused website and internal dashboard for managing services and client data. | Nuxt.js, Nuxt UI, Laravel |
+| **Ahl Quran Migration** | Migrated Vue + Nuxt UI 2 site to Nuxt UI 3 with improved performance and maintainability. | Nuxt UI 3, Vue.js |
+| **AWS Architecture Design** | Designed cost-efficient AWS cloud architecture with Terraform automation. | AWS, Terraform |
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats
+![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanadaltarah&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanadaltarah&layout=compact)
 
-I’m always open to discussing new projects, ideas, or opportunities to collaborate.  
-You can find me here:  
+---
 
-<p align="center">
-  <a href="https://github.com/mohanadaltarah"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohanad-altarah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mohanadaltarah/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/Mohanad_tara"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCQ4mj9-IRUQBoI44obwh9tA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p> 
+## 📫 Connect With Me
+<p>
+  <a href="https://github.com/mohanadaltarah"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mohanad-altarah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/Mohanad_tara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/channel/UCQ4mj9-IRUQBoI44obwh9tA"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+</p>
