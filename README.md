@@ -16,7 +16,7 @@
 - Learning **Advanced Nuxt.js & Laravel** techniques.  
 - Exploring **Web Security** fundamentals (OWASP Top 10).  
 - Building projects that improve performance and accessibility.  
-
+- Preparing my  Portfolio.
 ---
 
 ## 🤝 Looking to Collaborate On
